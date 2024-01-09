@@ -21,7 +21,6 @@ const onSubmitClick = (e) => {
   e.preventDefault();
 
   let delay = +formEl.delay.value;
-  let delayTest = formEl.delay.value;
   let step = +formEl.step.value;
   let amount = +formEl.amount.value;
 

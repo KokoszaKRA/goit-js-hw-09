@@ -85,6 +85,3 @@ const startTimer = () => {
 };
 
 startBtn.addEventListener("click", startTimer);
-
-
-
